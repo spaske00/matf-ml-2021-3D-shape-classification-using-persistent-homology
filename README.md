@@ -1,5 +1,10 @@
 # matf-ml-2021-3D-shape-classification-using-persistent-homology
 
+> Podaci imaju oblik. Topologija je oblast matematike koja proucava topoloske
+> osobine oblika. Ove topoloske osobine se iz skupa podataka mogu izvuci kao
+> feature. Projekat demonstrira koriscenje jedne takve topoloske osobine u
+> svrhu klasifikacije 3D oblika datih kao skup oblaka tacaka.
+
 ## Upustvo
 
 ```Bash
