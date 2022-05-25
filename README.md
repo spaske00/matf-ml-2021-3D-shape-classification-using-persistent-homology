@@ -8,7 +8,7 @@ cd ml_marko_spasic_1014_2020/
 python -m venv env
 source env/bin/activate
 pip install -r requirements.txt
-tar –xvzf data.tar.xz
+tar xf data.tar.xz
 jupyter notebook .
 ```
 
