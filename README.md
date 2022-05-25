@@ -1,4 +1,4 @@
-# matf-ml-2021-3D-shape-classification-using-persistent-homology
+# Klasifikacija 3D oblaka tačaka perzistentnom homologijom
 
 > Podaci imaju oblik. Topologija je oblast matematike koja proucava topoloske
 > osobine oblika. Ove topoloske osobine se iz skupa podataka mogu izvuci kao
