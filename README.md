@@ -3,8 +3,8 @@
 ## Upustvo
 
 ```Bash
-git clone git@github.com:spaske00/matf-ml-2021-3D-shape-classification-using-persistent-homology.git project
-cd project/
+git clone git@github.com:spaske00/matf-ml-2021-3D-shape-classification-using-persistent-homology.git ml_marko_spasic_1014_2020
+cd ml_marko_spasic_1014_2020/
 python -m venv env
 source env/bin/activate
 pip install -r requirements.txt
